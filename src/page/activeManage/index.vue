@@ -78,7 +78,7 @@
     name: 'allActive',
     data: function () {
       return {
-        totalActiveNum: 4,
+        totalActiveNum: 3,
         totalSignUp: 204,
         auditNum: 15,
         activeNum: 0,
